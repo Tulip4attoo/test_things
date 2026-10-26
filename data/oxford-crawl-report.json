@@ -1,0 +1,49 @@
+{
+  "ranking": {
+    "name": "QS World University Rankings",
+    "edition": 2027,
+    "checked_on": "2026-10-25",
+    "url": "https://www.topuniversities.com/qs-top-uni-wur",
+    "notes": "Pinned snapshot, including tied ranks. Roots are explicitly curated; no guessed domains. Discovery is bounded and cannot establish exhaustive coverage."
+  },
+  "generated_at": "2026-10-25T23:47:46.179059+00:00",
+  "universities": [
+    {
+      "university_id": "oxford",
+      "source_pages_fetched": 3,
+      "article_attempts": 1,
+      "articles_saved": 1,
+      "already_seen": 0,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 2,
+      "events": [
+        {
+          "url": "https://www.cs.ox.ac.uk/feeds/News-All.xml",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.cs.ox.ac.uk/feeds/News-All.xml (or policy unavailable)"
+        },
+        {
+          "url": "https://www.ox.ac.uk/news",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ox.ac.uk/news (or policy unavailable)"
+        },
+        {
+          "url": "https://eng.ox.ac.uk/feed",
+          "final_url": "https://eng.ox.ac.uk/feed",
+          "status": "ok"
+        },
+        {
+          "url": "https://eng.ox.ac.uk/events/battery-modelling-symposium-2027",
+          "final_url": "https://eng.ox.ac.uk/events/battery-modelling-symposium-2027",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 2,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 19,
+      "remaining_source_pages": 6,
+      "sitemaps_fetched": 0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-10-26T00:04:19.740998+00:00",
+  "offline_tests_passed": 19,
+  "recorded_source_urls": 330,
+  "source_validation_status": {
+    "ok": 44,
+    "error": 9,
+    "pending": 277
+  },
+  "stored_articles": 14,
+  "articles_by_university": {
+    "caltech": 1,
+    "cambridge": 2,
+    "eth": 1,
+    "harvard": 2,
+    "imperial": 2,
+    "mit": 2,
+    "nus": 2,
+    "oxford": 1,
+    "stanford": 1
+  },
+  "universities_with_articles": 9,
+  "limitations": [
+    "Discovery is bounded; source URLs include category feeds and are not a count of distinct news outlets.",
+    "Pending sources have not been validated; official domain ownership alone does not certify editorial ownership.",
+    "Some central hosts are blocked while department hosts remain accessible.",
+    "UCL robots.txt remains inaccessible in this environment. Caltech news listing returns 403, but its official Atom feed and a linked article were successfully collected."
+  ],
+  "october_2026_export": {
+    "path": "data/october-2026/articles.jsonl",
+    "articles": 13,
+    "since": "2026-10-01",
+    "before": "2026-11-01",
+    "excludes_undated": true
+  }
+}

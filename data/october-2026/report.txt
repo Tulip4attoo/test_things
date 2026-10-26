@@ -1,0 +1,23 @@
+BÁO CÁO CRAWL TIN ĐẠI HỌC — 2026-10
+Bắt đầu: 2026-10-26T00:06:44.693986+00:00; kết thúc: 2026-10-26T00:25:55.800514+00:00.
+Bộ lọc: ngày đăng từ 2026-10-01 (gồm) đến trước 2026-11-01; loại bài không rõ ngày.
+Tổng: 256 bài, gồm 13 bài tái sử dụng từ lần kiểm tra trước.
+Phạm vi: 10 trường trong QS World University Rankings 2027; nguồn trung tâm và khoa/bộ môn đã khám phá.
+
+- Massachusetts Institute of Technology (MIT): 71 bài; hết thời gian; còn hàng đợi chưa duyệt; 12 lần thử lỗi.
+- Imperial College London: 11 bài; hết thời gian; còn hàng đợi chưa duyệt; 342 lần thử lỗi.
+- Stanford University: 8 bài; 235 lần thử lỗi.
+- University of Oxford: 16 bài; 1 lần thử lỗi.
+- Harvard University: 49 bài; hết thời gian; còn hàng đợi chưa duyệt; 8 lần thử lỗi.
+- University of Cambridge: 16 bài; 16 lần thử lỗi.
+- California Institute of Technology (Caltech): 20 bài; 2 lần thử lỗi.
+- ETH Zurich: 41 bài; đã duyệt hết hàng đợi tìm thấy.
+- UCL: 0 bài; 1 lần thử lỗi.
+- National University of Singapore (NUS): 24 bài; hết thời gian; 35 lần thử lỗi.
+
+Lưu ý: đây là số bài lấy được, không phải chứng nhận đầy đủ mọi bài trong tháng.
+Tháng chưa kết thúc tại thời điểm chạy. Nguồn không truy cập được, nguồn chưa phát hiện,
+bài ngoài phạm vi feed/phân trang/sitemap và các giới hạn chạy có thể làm thiếu dữ liệu.
+Tuân thủ robots.txt và crawl-delay; không vượt hạn chế truy cập.
+JSONL chứa toàn văn; CSV chứa metadata; SQLite chứa dữ liệu và nguồn gốc.
+Chi tiết request/lỗi/giới hạn: crawl-report.json và crawl.log.

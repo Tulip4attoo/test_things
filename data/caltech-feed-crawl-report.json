@@ -1,0 +1,39 @@
+{
+  "ranking": {
+    "name": "QS World University Rankings",
+    "edition": 2027,
+    "checked_on": "2026-10-25",
+    "url": "https://www.topuniversities.com/qs-top-uni-wur",
+    "notes": "Pinned snapshot, including tied ranks. Roots are explicitly curated; no guessed domains. Discovery is bounded and cannot establish exhaustive coverage."
+  },
+  "generated_at": "2026-10-25T23:58:37.161477+00:00",
+  "universities": [
+    {
+      "university_id": "caltech",
+      "source_pages_fetched": 1,
+      "article_attempts": 1,
+      "articles_saved": 1,
+      "already_seen": 0,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 0,
+      "events": [
+        {
+          "url": "https://www.caltech.edu/about/news/rss",
+          "final_url": "https://www.caltech.edu/about/news/rss",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.caltech.edu/about/news/watson-lecture-katie-bouman-imaging-invisible",
+          "final_url": "https://www.caltech.edu/about/news/watson-lecture-katie-bouman-imaging-invisible",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 2,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 11,
+      "remaining_source_pages": 35,
+      "sitemaps_fetched": 0
+    }
+  ]
+}

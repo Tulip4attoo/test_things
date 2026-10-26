@@ -1,0 +1,54 @@
+{
+  "ranking": {
+    "name": "QS World University Rankings",
+    "edition": 2027,
+    "checked_on": "2026-10-25",
+    "url": "https://www.topuniversities.com/qs-top-uni-wur",
+    "notes": "Pinned snapshot, including tied ranks. Roots are explicitly curated; no guessed domains. Discovery is bounded and cannot establish exhaustive coverage."
+  },
+  "generated_at": "2026-10-25T23:56:26.531989+00:00",
+  "sources": [
+    {
+      "university_id": "caltech",
+      "university_name": "California Institute of Technology (Caltech)",
+      "url": "https://www.caltech.edu/about/news",
+      "kind": "listing",
+      "title": "",
+      "enabled": true,
+      "discovered_from": "https://www.caltech.edu/",
+      "method": "curated_seed",
+      "status": "error",
+      "verification": "curated_seed",
+      "checked_at": "2026-10-25T23:55:32.289967+00:00",
+      "error": "HTTP 403: https://www.caltech.edu/about/news"
+    },
+    {
+      "university_id": "caltech",
+      "university_name": "California Institute of Technology (Caltech)",
+      "url": "https://www.caltech.edu/sitemap.xml",
+      "kind": "sitemap",
+      "title": "",
+      "enabled": true,
+      "discovered_from": "https://www.caltech.edu/about/news",
+      "method": "robots_sitemap",
+      "status": "pending",
+      "verification": "university_domain_link",
+      "checked_at": null,
+      "error": null
+    },
+    {
+      "university_id": "ucl",
+      "university_name": "UCL",
+      "url": "https://www.ucl.ac.uk/news/",
+      "kind": "listing",
+      "title": "",
+      "enabled": true,
+      "discovered_from": "https://www.ucl.ac.uk/",
+      "method": "curated_seed",
+      "status": "error",
+      "verification": "curated_seed",
+      "checked_at": "2026-10-25T23:56:26.531680+00:00",
+      "error": "robots.txt disallows https://www.ucl.ac.uk/news/ (or policy unavailable)"
+    }
+  ]
+}

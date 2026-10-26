@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-10-25T23:47:44.088625+00:00",
+  "universities": [
+    {
+      "university_id": "oxford",
+      "pages_visited": 8,
+      "pages_remaining": 4,
+      "bounded": true,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://www.ox.ac.uk/robots.txt",
+          "status": "robots_unavailable",
+          "error": "robots.txt HTTP 403"
+        },
+        {
+          "url": "https://www.ox.ac.uk/news",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ox.ac.uk/news (or policy unavailable)"
+        },
+        {
+          "url": "https://eng.ox.ac.uk/news",
+          "final_url": "https://eng.ox.ac.uk/news",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.cs.ox.ac.uk/robots.txt",
+          "status": "robots_unavailable",
+          "error": "HTTPSConnectionPool(host='www.cs.ox.ac.uk', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cs.ox.ac.uk', port=443) at 0x75bb554202d0>, 'Connection to www.cs.ox.ac.uk timed out. (connect timeout=10)'))"
+        },
+        {
+          "url": "https://www.cs.ox.ac.uk/news-events/latest-news.html",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.cs.ox.ac.uk/news-events/latest-news.html (or policy unavailable)"
+        },
+        {
+          "url": "https://www.ox.ac.uk/about/divisions-and-departments",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ox.ac.uk/about/divisions-and-departments (or policy unavailable)"
+        },
+        {
+          "url": "https://www.cs.ox.ac.uk/rssfeeds.html",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.cs.ox.ac.uk/rssfeeds.html (or policy unavailable)"
+        },
+        {
+          "url": "https://www.cs.ox.ac.uk/feeds/News-All.xml",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.cs.ox.ac.uk/feeds/News-All.xml (or policy unavailable)"
+        },
+        {
+          "url": "https://www.ox.ac.uk/",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ox.ac.uk/ (or policy unavailable)"
+        },
+        {
+          "url": "https://eng.ox.ac.uk/feed",
+          "final_url": "https://eng.ox.ac.uk/feed",
+          "status": "ok"
+        }
+      ]
+    }
+  ]
+}

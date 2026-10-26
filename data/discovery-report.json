@@ -1,0 +1,565 @@
+{
+  "generated_at": "2026-10-25T23:59:08.764464+00:00",
+  "universities": [
+    {
+      "university_id": "imperial",
+      "pages_visited": 10,
+      "pages_remaining": 53,
+      "bounded": true,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://www.imperial.ac.uk/news/",
+          "final_url": "https://www.imperial.ac.uk/news/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.imperial.ac.uk/faculties-and-departments/",
+          "final_url": "https://www.imperial.ac.uk/faculties-and-departments/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.imperial.ac.uk/",
+          "final_url": "https://www.imperial.ac.uk/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.imperial.ac.uk/news/news/",
+          "status": "error",
+          "error": "HTTP 404: https://www.imperial.ac.uk/news/news/"
+        },
+        {
+          "url": "https://www.imperial.ac.uk/biosecurity/insights/",
+          "final_url": "https://www.imperial.ac.uk/biosecurity/insights/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.imperial.ac.uk/multidisciplinary-research/",
+          "final_url": "https://www.imperial.ac.uk/multidisciplinary-research/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.imperial.ac.uk/engineering/",
+          "final_url": "https://www.imperial.ac.uk/engineering/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.imperial.ac.uk/engineering/departments/design-engineering/",
+          "final_url": "https://www.imperial.ac.uk/design-engineering/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.imperial.ac.uk/medicine/",
+          "final_url": "https://www.imperial.ac.uk/medicine/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.imperial.ac.uk/medicine/departments/institute-clinical-sciences/",
+          "final_url": "https://www.imperial.ac.uk/institute-clinical-sciences/",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "university_id": "mit",
+      "pages_visited": 10,
+      "pages_remaining": 133,
+      "bounded": true,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://news.mit.edu/",
+          "final_url": "https://news.mit.edu/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.csail.mit.edu/news",
+          "final_url": "https://www.csail.mit.edu/news",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.eecs.mit.edu/news/",
+          "final_url": "https://www.eecs.mit.edu/news-events/",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.mit.edu/rss",
+          "final_url": "https://news.mit.edu/rss",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.mit.edu/education/",
+          "final_url": "https://www.mit.edu/education/",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.mit.edu/rss/feed",
+          "final_url": "https://news.mit.edu/rss/feed",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.mit.edu/",
+          "final_url": "https://www.mit.edu/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.eecs.mit.edu/feed/",
+          "final_url": "https://www.eecs.mit.edu/feed/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.eecs.mit.edu/category/news/",
+          "final_url": "https://www.eecs.mit.edu/category/news/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.eecs.mit.edu/category/news",
+          "final_url": "https://www.eecs.mit.edu/category/news/",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "university_id": "harvard",
+      "pages_visited": 10,
+      "pages_remaining": 64,
+      "bounded": true,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://news.harvard.edu/gazette/",
+          "final_url": "https://news.harvard.edu/gazette/",
+          "status": "ok"
+        },
+        {
+          "url": "https://seas.harvard.edu/news",
+          "final_url": "https://seas.harvard.edu/news",
+          "status": "ok"
+        },
+        {
+          "url": "https://hms.harvard.edu/news",
+          "final_url": "https://hms.harvard.edu/news",
+          "status": "ok"
+        },
+        {
+          "url": "https://hls.harvard.edu/today/",
+          "final_url": "https://hls.harvard.edu/today/",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.harvard.edu/gazette/rss-feeds/",
+          "final_url": "https://news.harvard.edu/gazette/rss-feeds/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.harvard.edu/academics/schools/",
+          "final_url": "https://www.harvard.edu/academics/schools/",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.harvard.edu/gazette/feed/",
+          "final_url": "https://news.harvard.edu/gazette/feed/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.harvard.edu/",
+          "final_url": "https://www.harvard.edu/",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.harvard.edu/gazette/feed/json/",
+          "final_url": "https://news.harvard.edu/gazette/feed/json/",
+          "status": "ok"
+        },
+        {
+          "url": "https://seas.harvard.edu/news?topic%5B586%5D=586",
+          "final_url": "https://seas.harvard.edu/news?topic%5B586%5D=586",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "university_id": "eth",
+      "pages_visited": 10,
+      "pages_remaining": 8,
+      "bounded": true,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://ethz.ch/en/news-and-events/eth-news.html",
+          "final_url": "https://ethz.ch/en/news-and-events/eth-news.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://ethz.ch/en/utils/rss.html",
+          "final_url": "https://ethz.ch/en/utils/rss.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://ee.ethz.ch/utils/rss.html",
+          "final_url": "https://ee.ethz.ch/utils/rss.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://ethz.ch/en/the-eth-zurich/organisation/departments-and-competence-centres/departments.html",
+          "final_url": "https://ethz.ch/en/the-eth-zurich/organisation/departments-and-competence-centres/departments.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.ethz.ch/en/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html",
+          "final_url": "https://ethz.ch/en/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://ethz.ch/en.html",
+          "final_url": "https://ethz.ch/en.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://ethz.ch/de/news-und-veranstaltungen/eth-news.html",
+          "final_url": "https://ethz.ch/de/news-und-veranstaltungen/eth-news.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.ethz.ch/de/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html",
+          "final_url": "https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.ethz.ch/en/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html?tag=news%3Adossiers%2Fzukunftsblog",
+          "final_url": "https://ethz.ch/en/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html?tag=news%3Adossiers%2Fzukunftsblog",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.ethz.ch/de/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html?tag=news%3Adossiers%2Fzukunftsblog",
+          "final_url": "https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html?tag=news%3Adossiers%2Fzukunftsblog",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "university_id": "ucl",
+      "pages_visited": 4,
+      "pages_remaining": 0,
+      "bounded": false,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://www.ucl.ac.uk/robots.txt",
+          "status": "robots_unavailable",
+          "error": "robots.txt HTTP 403"
+        },
+        {
+          "url": "https://www.ucl.ac.uk/news/",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ucl.ac.uk/news/ (or policy unavailable)"
+        },
+        {
+          "url": "https://www.ucl.ac.uk/news/ucl-news-channels",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ucl.ac.uk/news/ucl-news-channels (or policy unavailable)"
+        },
+        {
+          "url": "https://www.ucl.ac.uk/about/faculties-and-departments",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ucl.ac.uk/about/faculties-and-departments (or policy unavailable)"
+        },
+        {
+          "url": "https://www.ucl.ac.uk/",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ucl.ac.uk/ (or policy unavailable)"
+        }
+      ]
+    },
+    {
+      "university_id": "cambridge",
+      "pages_visited": 10,
+      "pages_remaining": 81,
+      "bounded": true,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://www.cam.ac.uk/news",
+          "final_url": "https://www.cam.ac.uk/news",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.cst.cam.ac.uk/news",
+          "final_url": "https://www.cst.cam.ac.uk/news",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.eng.cam.ac.uk/robots.txt",
+          "status": "robots_unavailable",
+          "error": "HTTPSConnectionPool(host='www.eng.cam.ac.uk', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.eng.cam.ac.uk', port=443) at 0x7efa339e2490>, 'Connection to www.eng.cam.ac.uk timed out. (connect timeout=10)'))"
+        },
+        {
+          "url": "https://www.eng.cam.ac.uk/news",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.eng.cam.ac.uk/news (or policy unavailable)"
+        },
+        {
+          "url": "https://www.jbs.cam.ac.uk/insight/",
+          "final_url": "https://www.jbs.cam.ac.uk/insight/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.cam.ac.uk/news-feed-generator",
+          "final_url": "https://www.cam.ac.uk/news-feed-generator",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.jbs.cam.ac.uk/rss-feeds/",
+          "final_url": "https://www.jbs.cam.ac.uk/rss-feeds/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.cam.ac.uk/colleges-and-departments/department-a-z",
+          "final_url": "https://www.cam.ac.uk/colleges-and-departments/department-a-z",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.cam.ac.uk/news/feed",
+          "final_url": "https://www.cam.ac.uk/news/feed",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.jbs.cam.ac.uk/category/insight/news/feed/",
+          "final_url": "https://www.jbs.cam.ac.uk/category/insight/news/feed/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.cam.ac.uk/",
+          "final_url": "https://www.cam.ac.uk/",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "university_id": "nus",
+      "pages_visited": 10,
+      "pages_remaining": 16,
+      "bounded": true,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://news.nus.edu.sg/",
+          "final_url": "https://news.nus.edu.sg/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.comp.nus.edu.sg/news/",
+          "final_url": "https://www.comp.nus.edu.sg/news/",
+          "status": "ok"
+        },
+        {
+          "url": "https://medicine.nus.edu.sg/news/",
+          "final_url": "https://medicine.nus.edu.sg/news/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.nus.edu.sg/robots.txt",
+          "status": "robots_unavailable",
+          "error": "robots.txt returned HTML"
+        },
+        {
+          "url": "https://www.nus.edu.sg/education",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.nus.edu.sg/education (or policy unavailable)"
+        },
+        {
+          "url": "https://www.isas.nus.edu.sg/rss-feed/",
+          "final_url": "https://www.isas.nus.edu.sg/rss-feed/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.nus.edu.sg/",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.nus.edu.sg/ (or policy unavailable)"
+        },
+        {
+          "url": "https://news.nus.edu.sg/?h=1&t=highlights",
+          "final_url": "https://news.nus.edu.sg/?h=1&t=highlights",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.nus.edu.sg/press-releases",
+          "final_url": "https://news.nus.edu.sg/press-releases",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.nus.edu.sg/?h=1&t=staff+awards",
+          "final_url": "https://news.nus.edu.sg/?h=1&t=staff+awards",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.nus.edu.sg/?h=1&t=news+reports",
+          "final_url": "https://news.nus.edu.sg/?h=1&t=news+reports",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "university_id": "stanford",
+      "pages_visited": 10,
+      "pages_remaining": 12,
+      "bounded": true,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://news.stanford.edu/robots.txt",
+          "status": "robots_unavailable",
+          "error": "robots.txt HTTP 403"
+        },
+        {
+          "url": "https://news.stanford.edu/",
+          "status": "blocked",
+          "error": "robots.txt disallows https://news.stanford.edu/ (or policy unavailable)"
+        },
+        {
+          "url": "https://engineering.stanford.edu/news",
+          "final_url": "https://engineering.stanford.edu/news",
+          "status": "ok"
+        },
+        {
+          "url": "https://med.stanford.edu/news.html",
+          "final_url": "https://med.stanford.edu/news.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.gsb.stanford.edu/insights",
+          "final_url": "https://www.gsb.stanford.edu/insights",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.stanford.edu/academics/",
+          "final_url": "https://www.stanford.edu/academics",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.stanford.edu/",
+          "final_url": "https://www.stanford.edu/",
+          "status": "ok"
+        },
+        {
+          "url": "https://engineering.stanford.edu/news?page=1",
+          "final_url": "https://engineering.stanford.edu/news?page=1",
+          "status": "ok"
+        },
+        {
+          "url": "https://med.stanford.edu/content/sm/news/insights",
+          "final_url": "https://med.stanford.edu:443/content/sm/news/insights.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.gsb.stanford.edu/insights?page=1",
+          "final_url": "https://www.gsb.stanford.edu/insights?page=1",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.gsb.stanford.edu/newsroom",
+          "final_url": "https://www.gsb.stanford.edu/newsroom",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "university_id": "oxford",
+      "pages_visited": 8,
+      "pages_remaining": 4,
+      "bounded": true,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://www.ox.ac.uk/robots.txt",
+          "status": "robots_unavailable",
+          "error": "robots.txt HTTP 403"
+        },
+        {
+          "url": "https://www.ox.ac.uk/news",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ox.ac.uk/news (or policy unavailable)"
+        },
+        {
+          "url": "https://eng.ox.ac.uk/news",
+          "final_url": "https://eng.ox.ac.uk/news",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.cs.ox.ac.uk/robots.txt",
+          "status": "robots_unavailable",
+          "error": "HTTPSConnectionPool(host='www.cs.ox.ac.uk', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cs.ox.ac.uk', port=443) at 0x75bb554202d0>, 'Connection to www.cs.ox.ac.uk timed out. (connect timeout=10)'))"
+        },
+        {
+          "url": "https://www.cs.ox.ac.uk/news-events/latest-news.html",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.cs.ox.ac.uk/news-events/latest-news.html (or policy unavailable)"
+        },
+        {
+          "url": "https://www.ox.ac.uk/about/divisions-and-departments",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ox.ac.uk/about/divisions-and-departments (or policy unavailable)"
+        },
+        {
+          "url": "https://www.cs.ox.ac.uk/rssfeeds.html",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.cs.ox.ac.uk/rssfeeds.html (or policy unavailable)"
+        },
+        {
+          "url": "https://www.cs.ox.ac.uk/feeds/News-All.xml",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.cs.ox.ac.uk/feeds/News-All.xml (or policy unavailable)"
+        },
+        {
+          "url": "https://www.ox.ac.uk/",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ox.ac.uk/ (or policy unavailable)"
+        },
+        {
+          "url": "https://eng.ox.ac.uk/feed",
+          "final_url": "https://eng.ox.ac.uk/feed",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "university_id": "caltech",
+      "pages_visited": 4,
+      "pages_remaining": 43,
+      "bounded": true,
+      "source_limit_reached": false,
+      "time_budget_exhausted": false,
+      "events": [
+        {
+          "url": "https://www.caltech.edu/about/news",
+          "status": "error",
+          "error": "HTTP 403: https://www.caltech.edu/about/news"
+        },
+        {
+          "url": "https://www.caltech.edu/rssfeeds",
+          "final_url": "https://www.caltech.edu/rssfeeds",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.caltech.edu/academics",
+          "final_url": "https://www.caltech.edu/academics",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.caltech.edu/about/news/rss",
+          "final_url": "https://www.caltech.edu/about/news/rss",
+          "status": "ok"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "ranking": {
+    "name": "QS World University Rankings",
+    "edition": 2027,
+    "checked_on": "2026-10-25",
+    "url": "https://www.topuniversities.com/qs-top-uni-wur",
+    "notes": "Pinned snapshot, including tied ranks. Roots are explicitly curated; no guessed domains. Discovery is bounded and cannot establish exhaustive coverage."
+  },
+  "generated_at": "2026-10-25T23:56:26.888769+00:00",
+  "universities": [
+    {
+      "university_id": "caltech",
+      "source_pages_fetched": 1,
+      "article_attempts": 0,
+      "articles_saved": 0,
+      "already_seen": 0,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 1,
+      "events": [
+        {
+          "url": "https://www.caltech.edu/about/news",
+          "status": "error",
+          "error": "HTTP 403: https://www.caltech.edu/about/news"
+        }
+      ],
+      "http_requests": 1,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 0,
+      "remaining_source_pages": 0,
+      "sitemaps_fetched": 0
+    },
+    {
+      "university_id": "ucl",
+      "source_pages_fetched": 1,
+      "article_attempts": 0,
+      "articles_saved": 0,
+      "already_seen": 0,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 1,
+      "events": [
+        {
+          "url": "https://www.ucl.ac.uk/news/",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ucl.ac.uk/news/ (or policy unavailable)"
+        }
+      ],
+      "http_requests": 0,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 0,
+      "remaining_source_pages": 0,
+      "sitemaps_fetched": 0
+    }
+  ]
+}

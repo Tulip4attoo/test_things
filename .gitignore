@@ -1,0 +1,32 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local credentials and assistant configuration.
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+.ssh/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Keep completed crawl datasets, reports, logs, archives, and SQLite databases.
+# Exclude only transient SQLite sidecars.
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+.DS_Store
+Thumbs.db

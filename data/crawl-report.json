@@ -1,0 +1,312 @@
+{
+  "ranking": {
+    "name": "QS World University Rankings",
+    "edition": 2027,
+    "checked_on": "2026-10-25",
+    "url": "https://www.topuniversities.com/qs-top-uni-wur",
+    "notes": "Pinned snapshot, including tied ranks. Roots are explicitly curated; no guessed domains. Discovery is bounded and cannot establish exhaustive coverage."
+  },
+  "generated_at": "2026-10-25T23:59:08.765186+00:00",
+  "universities": [
+    {
+      "university_id": "imperial",
+      "source_pages_fetched": 1,
+      "article_attempts": 1,
+      "articles_saved": 1,
+      "already_seen": 1,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 0,
+      "events": [
+        {
+          "url": "https://www.imperial.ac.uk/news/",
+          "final_url": "https://www.imperial.ac.uk/news/",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.imperial.ac.uk/news/articles/medicine/brain-sciences/2026/new-uk-trial-aims-to-find-answers-more-quickly-for-alzheimers-disease-/",
+          "final_url": "https://www.imperial.ac.uk/news/articles/medicine/brain-sciences/2026/new-uk-trial-aims-to-find-answers-more-quickly-for-alzheimers-disease-/",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 3,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 23,
+      "remaining_source_pages": 18,
+      "sitemaps_fetched": 0
+    },
+    {
+      "university_id": "mit",
+      "source_pages_fetched": 1,
+      "article_attempts": 1,
+      "articles_saved": 1,
+      "already_seen": 1,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 0,
+      "events": [
+        {
+          "url": "https://news.mit.edu/rss/feed",
+          "final_url": "https://news.mit.edu/rss/feed",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+          "final_url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 3,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 48,
+      "remaining_source_pages": 82,
+      "sitemaps_fetched": 0
+    },
+    {
+      "university_id": "harvard",
+      "source_pages_fetched": 1,
+      "article_attempts": 1,
+      "articles_saved": 1,
+      "already_seen": 1,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 0,
+      "events": [
+        {
+          "url": "https://news.harvard.edu/gazette/feed/",
+          "final_url": "https://news.harvard.edu/gazette/feed/",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.harvard.edu/gazette/story/2026/10/time-to-leave/",
+          "final_url": "https://news.harvard.edu/gazette/story/2026/10/time-to-leave/",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 3,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 48,
+      "remaining_source_pages": 53,
+      "sitemaps_fetched": 0
+    },
+    {
+      "university_id": "eth",
+      "source_pages_fetched": 1,
+      "article_attempts": 1,
+      "articles_saved": 1,
+      "already_seen": 0,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 0,
+      "events": [
+        {
+          "url": "https://www.ethz.ch/en/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html",
+          "final_url": "https://ethz.ch/en/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html",
+          "status": "ok"
+        },
+        {
+          "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/tackling-diabetes-with-an-electronic-implant.html",
+          "final_url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/tackling-diabetes-with-an-electronic-implant.html",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 5,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 99,
+      "remaining_source_pages": 11,
+      "sitemaps_fetched": 0
+    },
+    {
+      "university_id": "ucl",
+      "source_pages_fetched": 1,
+      "article_attempts": 0,
+      "articles_saved": 0,
+      "already_seen": 0,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 1,
+      "events": [
+        {
+          "url": "https://www.ucl.ac.uk/robots.txt",
+          "status": "robots_unavailable",
+          "error": "robots.txt HTTP 403"
+        },
+        {
+          "url": "https://www.ucl.ac.uk/news/",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ucl.ac.uk/news/ (or policy unavailable)"
+        }
+      ],
+      "http_requests": 1,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 0,
+      "remaining_source_pages": 0,
+      "sitemaps_fetched": 0
+    },
+    {
+      "university_id": "cambridge",
+      "source_pages_fetched": 1,
+      "article_attempts": 1,
+      "articles_saved": 1,
+      "already_seen": 1,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 0,
+      "events": [
+        {
+          "url": "https://www.cam.ac.uk/news/feed",
+          "final_url": "https://www.cam.ac.uk/news/feed",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.cam.ac.uk/news/good-growth-innovate-cambridge-summit-2026",
+          "final_url": "https://www.cam.ac.uk/news/good-growth-innovate-cambridge-summit-2026",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 3,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 13,
+      "remaining_source_pages": 35,
+      "sitemaps_fetched": 0
+    },
+    {
+      "university_id": "nus",
+      "source_pages_fetched": 1,
+      "article_attempts": 3,
+      "articles_saved": 1,
+      "already_seen": 1,
+      "filtered_by_date": 0,
+      "not_articles": 2,
+      "failures": 0,
+      "events": [
+        {
+          "url": "https://news.nus.edu.sg/feed/",
+          "final_url": "https://news.nus.edu.sg/feed/",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.nus.edu.sg/new-arts-space-at-yong-siew-toh-conservatory-of-music-allows-audiences-to-sit-stand-or-lie-down-while-enjoying-performances/",
+          "final_url": "https://news.nus.edu.sg/new-arts-space-at-yong-siew-toh-conservatory-of-music-allows-audiences-to-sit-stand-or-lie-down-while-enjoying-performances/",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.nus.edu.sg/textile-touchscreens-worn-on-the-body-enable-smart-interaction-and-are-washable/",
+          "final_url": "https://news.nus.edu.sg/textile-touchscreens-worn-on-the-body-enable-smart-interaction-and-are-washable/",
+          "status": "ok"
+        },
+        {
+          "url": "https://news.nus.edu.sg/yst-cube-opens-at-nus/",
+          "final_url": "https://news.nus.edu.sg/yst-cube-opens-at-nus/",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 5,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 21,
+      "remaining_source_pages": 22,
+      "sitemaps_fetched": 0
+    },
+    {
+      "university_id": "stanford",
+      "source_pages_fetched": 2,
+      "article_attempts": 1,
+      "articles_saved": 1,
+      "already_seen": 0,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 1,
+      "events": [
+        {
+          "url": "https://news.stanford.edu/robots.txt",
+          "status": "robots_unavailable",
+          "error": "robots.txt HTTP 403"
+        },
+        {
+          "url": "https://news.stanford.edu/",
+          "status": "blocked",
+          "error": "robots.txt disallows https://news.stanford.edu/ (or policy unavailable)"
+        },
+        {
+          "url": "https://engineering.stanford.edu/news",
+          "final_url": "https://engineering.stanford.edu/news",
+          "status": "ok"
+        },
+        {
+          "url": "https://engineering.stanford.edu/news/ai-era-entrepreneurship-educators-seek-challenge-and-motivate-student-founders",
+          "final_url": "https://stvp.stanford.edu/news/ai-era-entrepreneurship-educators-seek-challenge-and-motivate-student-founders",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 6,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 24,
+      "remaining_source_pages": 10,
+      "sitemaps_fetched": 0
+    },
+    {
+      "university_id": "oxford",
+      "source_pages_fetched": 3,
+      "article_attempts": 1,
+      "articles_saved": 1,
+      "already_seen": 0,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 2,
+      "events": [
+        {
+          "url": "https://www.cs.ox.ac.uk/feeds/News-All.xml",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.cs.ox.ac.uk/feeds/News-All.xml (or policy unavailable)"
+        },
+        {
+          "url": "https://www.ox.ac.uk/news",
+          "status": "blocked",
+          "error": "robots.txt disallows https://www.ox.ac.uk/news (or policy unavailable)"
+        },
+        {
+          "url": "https://eng.ox.ac.uk/feed",
+          "final_url": "https://eng.ox.ac.uk/feed",
+          "status": "ok"
+        },
+        {
+          "url": "https://eng.ox.ac.uk/events/battery-modelling-symposium-2027",
+          "final_url": "https://eng.ox.ac.uk/events/battery-modelling-symposium-2027",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 2,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 19,
+      "remaining_source_pages": 6,
+      "sitemaps_fetched": 0
+    },
+    {
+      "university_id": "caltech",
+      "source_pages_fetched": 1,
+      "article_attempts": 1,
+      "articles_saved": 1,
+      "already_seen": 0,
+      "filtered_by_date": 0,
+      "not_articles": 0,
+      "failures": 0,
+      "events": [
+        {
+          "url": "https://www.caltech.edu/about/news/rss",
+          "final_url": "https://www.caltech.edu/about/news/rss",
+          "status": "ok"
+        },
+        {
+          "url": "https://www.caltech.edu/about/news/watson-lecture-katie-bouman-imaging-invisible",
+          "final_url": "https://www.caltech.edu/about/news/watson-lecture-katie-bouman-imaging-invisible",
+          "status": "ok"
+        }
+      ],
+      "http_requests": 2,
+      "time_budget_exhausted": false,
+      "remaining_candidates": 11,
+      "remaining_source_pages": 35,
+      "sitemaps_fetched": 0
+    }
+  ]
+}

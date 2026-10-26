@@ -1,0 +1,77 @@
+{
+  "ranking": {
+    "name": "QS World University Rankings",
+    "edition": 2027,
+    "checked_on": "2026-10-25",
+    "url": "https://www.topuniversities.com/qs-top-uni-wur",
+    "notes": "Pinned snapshot, including tied ranks. Roots are explicitly curated; no guessed domains. Discovery is bounded and cannot establish exhaustive coverage."
+  },
+  "universities": [
+    {
+      "id": "mit", "rank": 1, "name": "Massachusetts Institute of Technology (MIT)",
+      "domains": ["mit.edu"], "homepage": "https://www.mit.edu/",
+      "newsrooms": ["https://news.mit.edu/", "https://www.csail.mit.edu/news", "https://www.eecs.mit.edu/news/"],
+      "discovery_pages": ["https://news.mit.edu/rss", "https://www.mit.edu/education/"],
+      "feeds": ["https://news.mit.edu/rss/feed"]
+    },
+    {
+      "id": "imperial", "rank": 2, "name": "Imperial College London",
+      "domains": ["imperial.ac.uk"], "homepage": "https://www.imperial.ac.uk/",
+      "newsrooms": ["https://www.imperial.ac.uk/news/"],
+      "discovery_pages": ["https://www.imperial.ac.uk/faculties-and-departments/"], "feeds": []
+    },
+    {
+      "id": "stanford", "rank": 2, "name": "Stanford University",
+      "domains": ["stanford.edu"], "homepage": "https://www.stanford.edu/",
+      "newsrooms": ["https://news.stanford.edu/", "https://engineering.stanford.edu/news", "https://med.stanford.edu/news.html", "https://www.gsb.stanford.edu/insights"],
+      "discovery_pages": ["https://www.stanford.edu/academics/"], "feeds": []
+    },
+    {
+      "id": "oxford", "rank": 4, "name": "University of Oxford",
+      "domains": ["ox.ac.uk"], "homepage": "https://www.ox.ac.uk/",
+      "newsrooms": ["https://www.ox.ac.uk/news", "https://eng.ox.ac.uk/news", "https://www.cs.ox.ac.uk/news-events/latest-news.html"],
+      "discovery_pages": ["https://www.ox.ac.uk/about/divisions-and-departments", "https://www.cs.ox.ac.uk/rssfeeds.html"],
+      "feeds": ["https://www.cs.ox.ac.uk/feeds/News-All.xml"]
+    },
+    {
+      "id": "harvard", "rank": 5, "name": "Harvard University",
+      "domains": ["harvard.edu"], "homepage": "https://www.harvard.edu/",
+      "newsrooms": ["https://news.harvard.edu/gazette/", "https://seas.harvard.edu/news", "https://hms.harvard.edu/news", "https://hls.harvard.edu/today/"],
+      "discovery_pages": ["https://news.harvard.edu/gazette/rss-feeds/", "https://www.harvard.edu/academics/schools/"],
+      "feeds": ["https://news.harvard.edu/gazette/feed/"]
+    },
+    {
+      "id": "cambridge", "rank": 6, "name": "University of Cambridge",
+      "domains": ["cam.ac.uk"], "homepage": "https://www.cam.ac.uk/",
+      "newsrooms": ["https://www.cam.ac.uk/news", "https://www.cst.cam.ac.uk/news", "https://www.eng.cam.ac.uk/news", "https://www.jbs.cam.ac.uk/insight/"],
+      "discovery_pages": ["https://www.cam.ac.uk/news-feed-generator", "https://www.jbs.cam.ac.uk/rss-feeds/", "https://www.cam.ac.uk/colleges-and-departments/department-a-z"],
+      "feeds": ["https://www.cam.ac.uk/news/feed", "https://www.jbs.cam.ac.uk/category/insight/news/feed/"]
+    },
+    {
+      "id": "caltech", "rank": 7, "name": "California Institute of Technology (Caltech)",
+      "domains": ["caltech.edu"], "homepage": "https://www.caltech.edu/",
+      "newsrooms": ["https://www.caltech.edu/about/news"],
+      "discovery_pages": ["https://www.caltech.edu/rssfeeds", "https://www.caltech.edu/academics"],
+      "feeds": ["https://www.caltech.edu/about/news/rss"]
+    },
+    {
+      "id": "eth", "rank": 8, "name": "ETH Zurich",
+      "domains": ["ethz.ch"], "homepage": "https://ethz.ch/en.html",
+      "newsrooms": ["https://ethz.ch/en/news-and-events/eth-news.html"],
+      "discovery_pages": ["https://ethz.ch/en/utils/rss.html", "https://ee.ethz.ch/utils/rss.html", "https://ethz.ch/en/the-eth-zurich/organisation/departments-and-competence-centres/departments.html"],
+      "feeds": ["https://www.ethz.ch/en/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html"]
+    },
+    {
+      "id": "ucl", "rank": 8, "name": "UCL",
+      "domains": ["ucl.ac.uk"], "homepage": "https://www.ucl.ac.uk/",
+      "newsrooms": ["https://www.ucl.ac.uk/news/"],
+      "discovery_pages": ["https://www.ucl.ac.uk/news/ucl-news-channels", "https://www.ucl.ac.uk/about/faculties-and-departments"], "feeds": []
+    },
+    {
+      "id": "nus", "rank": 10, "name": "National University of Singapore (NUS)",
+      "domains": ["nus.edu.sg"], "homepage": "https://www.nus.edu.sg/",
+      "newsrooms": ["https://news.nus.edu.sg/", "https://www.comp.nus.edu.sg/news/", "https://medicine.nus.edu.sg/news/"],
+      "discovery_pages": ["https://www.nus.edu.sg/education", "https://www.isas.nus.edu.sg/rss-feed/"], "feeds": []
+    }
+  ]
+}
